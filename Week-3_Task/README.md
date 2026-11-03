@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-TaskFlow is a proposed web-based project and task management platform designed for small teams and organizations. It provides a centralized environment for managing workspaces, projects, task assignments, deadlines, progress tracking, and team collaboration.
+TaskFlow is a proposed web-based project and task management platform designed for small teams and organizations. It provides a centralized environment for managing workspaces, projects, task assignments, deadlines, progress tracking,and team collaboration.
 
 This repository contains the **Week 3 Development Roadmap and Implementation Strategy**, prepared as part of the Junior Software Developer Internship at Yuva Intern.
 
@@ -52,7 +52,7 @@ Each sprint includes defined objectives, development activities, deliverables, a
 - Backend API development using Node.js and Express.js.
 - MongoDB database integration.
 - Authentication and role-based authorization.
-- Modular implementation of workspace, project, and task features.
+- Modular implementation of workspace, project, and also the task features.
 
 ### 3. Integration Strategy
 - REST API integration.
